@@ -5,5 +5,6 @@
 
 ![SWAMY SAXENA](https://raw.githubusercontent.com/SwamySaxena/mazerunner/main/game/1.jpg)
 
-![SWAMY SAXENA](https://raw.githubusercontent.com/SwamySaxena/mazerunner/game/2.jpg)
-![SWAMY SAXENA](https://raw.githubusercontent.com/SwamySaxena/mazerunner/game/3.jpg)
+![SWAMY SAXENA](https://raw.githubusercontent.com/SwamySaxena/mazerunner/main/game/2.jpg)
+
+![SWAMY SAXENA](https://raw.githubusercontent.com/SwamySaxena/mazerunner/main/game/3.jpg)
